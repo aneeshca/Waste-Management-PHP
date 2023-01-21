@@ -1,0 +1,992 @@
+21-09-12 21:32:25 ** --- MESSAGE BEGIN ---
+21-09-12 21:32:25 ** To: anandhan2439@gmail.com
+21-09-12 21:32:25 ** Subject: Password Reset Code
+21-09-12 21:32:25 ** From: wastemanagementstate@gmail.com
+21-09-12 21:32:25 ** 
+21-09-12 21:32:25 ** Your password reset code is 793366
+21-09-12 21:32:25 ** --- MESSAGE END ---
+21-09-12 21:32:26 ** Connecting to smtp.gmail.com:587
+21-09-12 21:32:27 ** Connected.
+21-09-12 21:32:27 << 220 smtp.gmail.com ESMTP lw14sm4078637pjb.48 - gsmtp<EOL>
+21-09-12 21:32:27 >> EHLO DESKTOP-30PHAAL<EOL>
+21-09-12 21:32:27 << 250-smtp.gmail.com at your service, [103.165.20.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21-09-12 21:32:27 ** Authenticating as wastemanagementstate@gmail.com
+21-09-12 21:32:27 >> STARTTLS<EOL>
+21-09-12 21:32:27 << 220 2.0.0 Ready to start TLS<EOL>
+21-09-12 21:32:28 >> EHLO DESKTOP-30PHAAL<EOL>
+21-09-12 21:32:28 << 250-smtp.gmail.com at your service, [103.165.20.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21-09-12 21:32:28 >> AUTH LOGIN<EOL>
+21-09-12 21:32:28 << 334 VXNlcm5hbWU6<EOL>
+21-09-12 21:32:28 >> d2FzdGVtYW5hZ2VtZW50c3RhdGVAZ21haWwuY29t<EOL>
+21-09-12 21:32:28 << 334 UGFzc3dvcmQ6<EOL>
+21-09-12 21:32:28 >> ODA3NTIzMDU0MQ==<EOL>
+21-09-12 21:32:29 << 235 2.7.0 Accepted<EOL>
+21-09-12 21:32:29 >> MAIL FROM: <wastemanagementstate@gmail.com><EOL>
+21-09-12 21:32:29 << 250 2.1.0 OK lw14sm4078637pjb.48 - gsmtp<EOL>
+21-09-12 21:32:29 >> RCPT TO: <anandhan2439@gmail.com><EOL>
+21-09-12 21:32:29 << 250 2.1.5 OK lw14sm4078637pjb.48 - gsmtp<EOL>
+21-09-12 21:32:29 >> DATA<EOL>
+21-09-12 21:32:30 << 354  Go ahead lw14sm4078637pjb.48 - gsmtp<EOL>
+21-09-12 21:32:30 >> Date: Sun, 12 Sep 2021 21:32:30 +0530<EOL>
+21-09-12 21:32:30 >> To: anandhan2439@gmail.com<EOL>
+21-09-12 21:32:30 >> Subject: Password Reset Code<EOL>
+21-09-12 21:32:30 >> From: wastemanagementstate@gmail.com<EOL>
+21-09-12 21:32:30 >> <EOL>
+21-09-12 21:32:30 >> Your password reset code is 793366<EOL>
+21-09-12 21:32:30 >> .<EOL>
+21-09-12 21:32:31 << 250 2.0.0 OK  1631462572 lw14sm4078637pjb.48 - gsmtp<EOL>
+21-09-12 21:32:31 >> QUIT<EOL>
+21-09-12 21:32:31 << 221 2.0.0 closing connection lw14sm4078637pjb.48 - gsmtp<EOL>
+21-09-12 21:32:31 ** Disconnecting from smtp.gmail.com:587
+21-09-12 21:32:31 ** Disconnected.
+21-09-12 21:32:31 ** Disconnected.
+21-10-09 17:16:02 ** --- MESSAGE BEGIN ---
+21-10-09 17:16:02 ** To: 
+21-10-09 17:16:02 ** Subject: myran book
+21-10-09 17:16:02 ** From: wastemanagementstate@gmail.com
+21-10-09 17:16:02 ** 
+21-10-09 17:16:02 ** Your password reset code is oombii
+21-10-09 17:16:02 ** --- MESSAGE END ---
+21-10-09 17:16:02 ** Message is missing recipient's address
+21-10-09 17:18:05 ** --- MESSAGE BEGIN ---
+21-10-09 17:18:05 ** To: To:kannanca02@gmail.com
+21-10-09 17:18:05 ** Subject: myran book
+21-10-09 17:18:05 ** From: wastemanagementstate@gmail.com
+21-10-09 17:18:05 ** 
+21-10-09 17:18:05 ** Your password reset code is oombii
+21-10-09 17:18:05 ** --- MESSAGE END ---
+21-10-09 17:18:07 ** Connecting to smtp.gmail.com:587
+21-10-09 17:18:08 ** Connected.
+21-10-09 17:18:08 << 220 smtp.gmail.com ESMTP z3sm2331669pfe.78 - gsmtp<EOL>
+21-10-09 17:18:08 >> EHLO DESKTOP-30PHAAL<EOL>
+21-10-09 17:18:08 << 250-smtp.gmail.com at your service, [103.165.21.192]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21-10-09 17:18:08 ** Authenticating as wastemanagementstate@gmail.com
+21-10-09 17:18:08 >> STARTTLS<EOL>
+21-10-09 17:18:08 << 220 2.0.0 Ready to start TLS<EOL>
+21-10-09 17:18:08 >> EHLO DESKTOP-30PHAAL<EOL>
+21-10-09 17:18:09 << 250-smtp.gmail.com at your service, [103.165.21.192]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21-10-09 17:18:09 >> AUTH LOGIN<EOL>
+21-10-09 17:18:09 << 334 VXNlcm5hbWU6<EOL>
+21-10-09 17:18:09 >> d2FzdGVtYW5hZ2VtZW50c3RhdGVAZ21haWwuY29t<EOL>
+21-10-09 17:18:09 << 334 UGFzc3dvcmQ6<EOL>
+21-10-09 17:18:09 >> ODA3NTIzMDU0MQ==<EOL>
+21-10-09 17:18:09 << 235 2.7.0 Accepted<EOL>
+21-10-09 17:18:09 >> MAIL FROM: <wastemanagementstate@gmail.com><EOL>
+21-10-09 17:18:10 << 250 2.1.0 OK z3sm2331669pfe.78 - gsmtp<EOL>
+21-10-09 17:18:10 >> RCPT TO: <kannanca02@gmail.com><EOL>
+21-10-09 17:18:10 << 250 2.1.5 OK z3sm2331669pfe.78 - gsmtp<EOL>
+21-10-09 17:18:10 >> DATA<EOL>
+21-10-09 17:18:10 << 354  Go ahead z3sm2331669pfe.78 - gsmtp<EOL>
+21-10-09 17:18:10 >> Date: Sat, 9 Oct 2021 17:18:10 +0530<EOL>
+21-10-09 17:18:10 >> To: To:kannanca02@gmail.com<EOL>
+21-10-09 17:18:10 >> Subject: myran book<EOL>
+21-10-09 17:18:10 >> From: wastemanagementstate@gmail.com<EOL>
+21-10-09 17:18:10 >> <EOL>
+21-10-09 17:18:10 >> Your password reset code is oombii<EOL>
+21-10-09 17:18:10 >> .<EOL>
+21-10-09 17:18:11 << 250 2.0.0 OK  1633780094 z3sm2331669pfe.78 - gsmtp<EOL>
+21-10-09 17:18:11 >> QUIT<EOL>
+21-10-09 17:18:11 << 221 2.0.0 closing connection z3sm2331669pfe.78 - gsmtp<EOL>
+21-10-09 17:18:11 ** Disconnecting from smtp.gmail.com:587
+21-10-09 17:18:11 ** Disconnected.
+21-10-09 17:18:11 ** Disconnected.
+21-10-09 20:30:20 ** --- MESSAGE BEGIN ---
+21-10-09 20:30:20 ** To: To:kannanca02@gmail.com
+21-10-09 20:30:20 ** Subject: myran book
+21-10-09 20:30:20 ** From: wastemanagementstate@gmail.com
+21-10-09 20:30:20 ** 
+21-10-09 20:30:20 ** Your password reset code is oombii
+21-10-09 20:30:20 ** --- MESSAGE END ---
+21-10-09 20:30:22 ** Connecting to smtp.gmail.com:587
+21-10-09 20:30:23 ** Connected.
+21-10-09 20:30:23 << 220 smtp.gmail.com ESMTP s7sm2930249pgc.60 - gsmtp<EOL>
+21-10-09 20:30:23 >> EHLO DESKTOP-30PHAAL<EOL>
+21-10-09 20:30:23 << 250-smtp.gmail.com at your service, [103.165.21.192]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21-10-09 20:30:23 ** Authenticating as wastemanagementstate@gmail.com
+21-10-09 20:30:23 >> STARTTLS<EOL>
+21-10-09 20:30:23 << 220 2.0.0 Ready to start TLS<EOL>
+21-10-09 20:30:24 >> EHLO DESKTOP-30PHAAL<EOL>
+21-10-09 20:30:24 << 250-smtp.gmail.com at your service, [103.165.21.192]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21-10-09 20:30:24 >> AUTH LOGIN<EOL>
+21-10-09 20:30:24 << 334 VXNlcm5hbWU6<EOL>
+21-10-09 20:30:24 >> d2FzdGVtYW5hZ2VtZW50c3RhdGVAZ21haWwuY29t<EOL>
+21-10-09 20:30:24 << 334 UGFzc3dvcmQ6<EOL>
+21-10-09 20:30:24 >> ODA3NTIzMDU0MQ==<EOL>
+21-10-09 20:30:25 << 235 2.7.0 Accepted<EOL>
+21-10-09 20:30:25 >> MAIL FROM: <wastemanagementstate@gmail.com><EOL>
+21-10-09 20:30:25 << 250 2.1.0 OK s7sm2930249pgc.60 - gsmtp<EOL>
+21-10-09 20:30:25 >> RCPT TO: <kannanca02@gmail.com><EOL>
+21-10-09 20:30:25 << 250 2.1.5 OK s7sm2930249pgc.60 - gsmtp<EOL>
+21-10-09 20:30:25 >> DATA<EOL>
+21-10-09 20:30:26 << 354  Go ahead s7sm2930249pgc.60 - gsmtp<EOL>
+21-10-09 20:30:26 >> Date: Sat, 9 Oct 2021 20:30:26 +0530<EOL>
+21-10-09 20:30:26 >> To: To:kannanca02@gmail.com<EOL>
+21-10-09 20:30:26 >> Subject: myran book<EOL>
+21-10-09 20:30:26 >> From: wastemanagementstate@gmail.com<EOL>
+21-10-09 20:30:26 >> <EOL>
+21-10-09 20:30:26 >> Your password reset code is oombii<EOL>
+21-10-09 20:30:26 >> .<EOL>
+21-10-09 20:30:26 << 250 2.0.0 OK  1633791629 s7sm2930249pgc.60 - gsmtp<EOL>
+21-10-09 20:30:26 >> QUIT<EOL>
+21-10-09 20:30:27 << 221 2.0.0 closing connection s7sm2930249pgc.60 - gsmtp<EOL>
+21-10-09 20:30:27 ** Disconnecting from smtp.gmail.com:587
+21-10-09 20:30:27 ** Disconnected.
+21-10-09 20:30:27 ** Disconnected.
+21-10-09 20:32:26 ** --- MESSAGE BEGIN ---
+21-10-09 20:32:26 ** To: To:kannanca02@gmail.com
+21-10-09 20:32:26 ** Subject: myran book
+21-10-09 20:32:26 ** From: wastemanagementstate@gmail.com
+21-10-09 20:32:26 ** 
+21-10-09 20:32:26 ** Your password reset code is oombii
+21-10-09 20:32:26 ** --- MESSAGE END ---
+21-10-09 20:32:27 ** Connecting to smtp.gmail.com:587
+21-10-09 20:32:28 ** Connected.
+21-10-09 20:32:28 << 220 smtp.gmail.com ESMTP 17sm3086167pgr.10 - gsmtp<EOL>
+21-10-09 20:32:28 >> EHLO DESKTOP-30PHAAL<EOL>
+21-10-09 20:32:28 << 250-smtp.gmail.com at your service, [103.165.21.192]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21-10-09 20:32:28 ** Authenticating as wastemanagementstate@gmail.com
+21-10-09 20:32:28 >> STARTTLS<EOL>
+21-10-09 20:32:28 << 220 2.0.0 Ready to start TLS<EOL>
+21-10-09 20:32:28 >> EHLO DESKTOP-30PHAAL<EOL>
+21-10-09 20:32:28 << 250-smtp.gmail.com at your service, [103.165.21.192]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21-10-09 20:32:28 >> AUTH LOGIN<EOL>
+21-10-09 20:32:29 << 334 VXNlcm5hbWU6<EOL>
+21-10-09 20:32:29 >> d2FzdGVtYW5hZ2VtZW50c3RhdGVAZ21haWwuY29t<EOL>
+21-10-09 20:32:29 << 334 UGFzc3dvcmQ6<EOL>
+21-10-09 20:32:29 >> ODA3NTIzMDU0MQ==<EOL>
+21-10-09 20:32:29 << 235 2.7.0 Accepted<EOL>
+21-10-09 20:32:29 >> MAIL FROM: <wastemanagementstate@gmail.com><EOL>
+21-10-09 20:32:29 << 250 2.1.0 OK 17sm3086167pgr.10 - gsmtp<EOL>
+21-10-09 20:32:29 >> RCPT TO: <kannanca02@gmail.com><EOL>
+21-10-09 20:32:30 << 250 2.1.5 OK 17sm3086167pgr.10 - gsmtp<EOL>
+21-10-09 20:32:30 >> DATA<EOL>
+21-10-09 20:32:30 << 354  Go ahead 17sm3086167pgr.10 - gsmtp<EOL>
+21-10-09 20:32:30 >> Date: Sat, 9 Oct 2021 20:32:30 +0530<EOL>
+21-10-09 20:32:30 >> To: To:kannanca02@gmail.com<EOL>
+21-10-09 20:32:30 >> Subject: myran book<EOL>
+21-10-09 20:32:30 >> From: wastemanagementstate@gmail.com<EOL>
+21-10-09 20:32:30 >> <EOL>
+21-10-09 20:32:30 >> Your password reset code is oombii<EOL>
+21-10-09 20:32:30 >> .<EOL>
+21-10-09 20:32:31 << 250 2.0.0 OK  1633791754 17sm3086167pgr.10 - gsmtp<EOL>
+21-10-09 20:32:31 >> QUIT<EOL>
+21-10-09 20:32:31 << 221 2.0.0 closing connection 17sm3086167pgr.10 - gsmtp<EOL>
+21-10-09 20:32:31 ** Disconnecting from smtp.gmail.com:587
+21-10-09 20:32:31 ** Disconnected.
+21-10-09 20:32:31 ** Disconnected.
+21-10-09 20:40:10 ** --- MESSAGE BEGIN ---
+21-10-09 20:40:10 ** To: kannanca02@gmail.com
+21-10-09 20:40:10 ** Subject: myran book
+21-10-09 20:40:10 ** From: wastemanagementstate@gmail.com
+21-10-09 20:40:10 ** 
+21-10-09 20:40:10 ** Your password reset code is oombii
+21-10-09 20:40:10 ** --- MESSAGE END ---
+21-10-09 20:40:11 ** Connecting to smtp.gmail.com:587
+21-10-09 20:40:12 ** Connected.
+21-10-09 20:40:12 << 220 smtp.gmail.com ESMTP h13sm2900754pgf.14 - gsmtp<EOL>
+21-10-09 20:40:12 >> EHLO DESKTOP-30PHAAL<EOL>
+21-10-09 20:40:12 << 250-smtp.gmail.com at your service, [103.165.21.192]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21-10-09 20:40:12 ** Authenticating as wastemanagementstate@gmail.com
+21-10-09 20:40:12 >> STARTTLS<EOL>
+21-10-09 20:40:12 << 220 2.0.0 Ready to start TLS<EOL>
+21-10-09 20:40:13 >> EHLO DESKTOP-30PHAAL<EOL>
+21-10-09 20:40:13 << 250-smtp.gmail.com at your service, [103.165.21.192]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21-10-09 20:40:13 >> AUTH LOGIN<EOL>
+21-10-09 20:40:13 << 334 VXNlcm5hbWU6<EOL>
+21-10-09 20:40:13 >> d2FzdGVtYW5hZ2VtZW50c3RhdGVAZ21haWwuY29t<EOL>
+21-10-09 20:40:13 << 334 UGFzc3dvcmQ6<EOL>
+21-10-09 20:40:13 >> ODA3NTIzMDU0MQ==<EOL>
+21-10-09 20:40:14 << 235 2.7.0 Accepted<EOL>
+21-10-09 20:40:14 >> MAIL FROM: <wastemanagementstate@gmail.com><EOL>
+21-10-09 20:40:14 << 250 2.1.0 OK h13sm2900754pgf.14 - gsmtp<EOL>
+21-10-09 20:40:14 >> RCPT TO: <kannanca02@gmail.com><EOL>
+21-10-09 20:40:14 << 250 2.1.5 OK h13sm2900754pgf.14 - gsmtp<EOL>
+21-10-09 20:40:14 >> DATA<EOL>
+21-10-09 20:40:14 << 354  Go ahead h13sm2900754pgf.14 - gsmtp<EOL>
+21-10-09 20:40:14 >> Date: Sat, 9 Oct 2021 20:40:14 +0530<EOL>
+21-10-09 20:40:14 >> To: kannanca02@gmail.com<EOL>
+21-10-09 20:40:14 >> Subject: myran book<EOL>
+21-10-09 20:40:14 >> From: wastemanagementstate@gmail.com<EOL>
+21-10-09 20:40:14 >> <EOL>
+21-10-09 20:40:14 >> Your password reset code is oombii<EOL>
+21-10-09 20:40:14 >> .<EOL>
+21-10-09 20:40:15 << 250 2.0.0 OK  1633792218 h13sm2900754pgf.14 - gsmtp<EOL>
+21-10-09 20:40:15 >> QUIT<EOL>
+21-10-09 20:40:15 << 221 2.0.0 closing connection h13sm2900754pgf.14 - gsmtp<EOL>
+21-10-09 20:40:15 ** Disconnecting from smtp.gmail.com:587
+21-10-09 20:40:15 ** Disconnected.
+21-10-09 20:40:15 ** Disconnected.
+21-10-09 20:41:28 ** --- MESSAGE BEGIN ---
+21-10-09 20:41:28 ** To: kannanca02@gmail.com
+21-10-09 20:41:28 ** Subject: Password Reset Code
+21-10-09 20:41:28 ** From: wastemanagementstate@gmail.com
+21-10-09 20:41:28 ** 
+21-10-09 20:41:28 ** Your password reset code is 672976
+21-10-09 20:41:28 ** --- MESSAGE END ---
+21-10-09 20:41:29 ** Connecting to smtp.gmail.com:587
+21-10-09 20:41:29 ** Connected.
+21-10-09 20:41:29 << 220 smtp.gmail.com ESMTP me18sm2453369pjb.33 - gsmtp<EOL>
+21-10-09 20:41:29 >> EHLO DESKTOP-30PHAAL<EOL>
+21-10-09 20:41:30 << 250-smtp.gmail.com at your service, [103.165.21.192]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21-10-09 20:41:30 ** Authenticating as wastemanagementstate@gmail.com
+21-10-09 20:41:30 >> STARTTLS<EOL>
+21-10-09 20:41:30 << 220 2.0.0 Ready to start TLS<EOL>
+21-10-09 20:41:30 >> EHLO DESKTOP-30PHAAL<EOL>
+21-10-09 20:41:30 << 250-smtp.gmail.com at your service, [103.165.21.192]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21-10-09 20:41:30 >> AUTH LOGIN<EOL>
+21-10-09 20:41:30 << 334 VXNlcm5hbWU6<EOL>
+21-10-09 20:41:30 >> d2FzdGVtYW5hZ2VtZW50c3RhdGVAZ21haWwuY29t<EOL>
+21-10-09 20:41:31 << 334 UGFzc3dvcmQ6<EOL>
+21-10-09 20:41:31 >> ODA3NTIzMDU0MQ==<EOL>
+21-10-09 20:41:31 << 235 2.7.0 Accepted<EOL>
+21-10-09 20:41:31 >> MAIL FROM: <wastemanagementstate@gmail.com><EOL>
+21-10-09 20:41:31 << 250 2.1.0 OK me18sm2453369pjb.33 - gsmtp<EOL>
+21-10-09 20:41:31 >> RCPT TO: <kannanca02@gmail.com><EOL>
+21-10-09 20:41:31 << 250 2.1.5 OK me18sm2453369pjb.33 - gsmtp<EOL>
+21-10-09 20:41:31 >> DATA<EOL>
+21-10-09 20:41:32 << 354  Go ahead me18sm2453369pjb.33 - gsmtp<EOL>
+21-10-09 20:41:32 >> Date: Sat, 9 Oct 2021 20:41:32 +0530<EOL>
+21-10-09 20:41:32 >> To: kannanca02@gmail.com<EOL>
+21-10-09 20:41:32 >> Subject: Password Reset Code<EOL>
+21-10-09 20:41:32 >> From: wastemanagementstate@gmail.com<EOL>
+21-10-09 20:41:32 >> <EOL>
+21-10-09 20:41:32 >> Your password reset code is 672976<EOL>
+21-10-09 20:41:32 >> .<EOL>
+21-10-09 20:41:33 << 250 2.0.0 OK  1633792296 me18sm2453369pjb.33 - gsmtp<EOL>
+21-10-09 20:41:33 >> QUIT<EOL>
+21-10-09 20:41:33 << 221 2.0.0 closing connection me18sm2453369pjb.33 - gsmtp<EOL>
+21-10-09 20:41:33 ** Disconnecting from smtp.gmail.com:587
+21-10-09 20:41:33 ** Disconnected.
+21-10-09 20:41:33 ** Disconnected.
+21-10-09 21:00:18 ** --- MESSAGE BEGIN ---
+21-10-09 21:00:18 ** To: To:kannanca02@gmail.com
+21-10-09 21:00:18 ** Subject: myran book
+21-10-09 21:00:18 ** From: wastemanagementstate@gmail.com
+21-10-09 21:00:18 ** 
+21-10-09 21:00:18 ** Your password reset code is oombii
+21-10-09 21:00:18 ** --- MESSAGE END ---
+21-10-09 21:00:19 ** Connecting to smtp.gmail.com:587
+21-10-09 21:00:21 ** Connected.
+21-10-09 21:00:21 << 220 smtp.gmail.com ESMTP g23sm2524945pfu.71 - gsmtp<EOL>
+21-10-09 21:00:21 >> EHLO DESKTOP-30PHAAL<EOL>
+21-10-09 21:00:21 << 250-smtp.gmail.com at your service, [103.165.21.192]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21-10-09 21:00:21 ** Authenticating as wastemanagementstate@gmail.com
+21-10-09 21:00:21 >> STARTTLS<EOL>
+21-10-09 21:00:21 << 220 2.0.0 Ready to start TLS<EOL>
+21-10-09 21:00:21 >> EHLO DESKTOP-30PHAAL<EOL>
+21-10-09 21:00:21 << 250-smtp.gmail.com at your service, [103.165.21.192]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21-10-09 21:00:21 >> AUTH LOGIN<EOL>
+21-10-09 21:00:22 << 334 VXNlcm5hbWU6<EOL>
+21-10-09 21:00:22 >> d2FzdGVtYW5hZ2VtZW50c3RhdGVAZ21haWwuY29t<EOL>
+21-10-09 21:00:22 << 334 UGFzc3dvcmQ6<EOL>
+21-10-09 21:00:22 >> ODA3NTIzMDU0MQ==<EOL>
+21-10-09 21:00:22 << 235 2.7.0 Accepted<EOL>
+21-10-09 21:00:22 >> MAIL FROM: <wastemanagementstate@gmail.com><EOL>
+21-10-09 21:00:22 << 250 2.1.0 OK g23sm2524945pfu.71 - gsmtp<EOL>
+21-10-09 21:00:22 >> RCPT TO: <kannanca02@gmail.com><EOL>
+21-10-09 21:00:23 << 250 2.1.5 OK g23sm2524945pfu.71 - gsmtp<EOL>
+21-10-09 21:00:23 >> DATA<EOL>
+21-10-09 21:00:23 << 354  Go ahead g23sm2524945pfu.71 - gsmtp<EOL>
+21-10-09 21:00:23 >> Date: Sat, 9 Oct 2021 21:00:23 +0530<EOL>
+21-10-09 21:00:23 >> To: To:kannanca02@gmail.com<EOL>
+21-10-09 21:00:23 >> Subject: myran book<EOL>
+21-10-09 21:00:23 >> From: wastemanagementstate@gmail.com<EOL>
+21-10-09 21:00:23 >> <EOL>
+21-10-09 21:00:23 >> Your password reset code is oombii<EOL>
+21-10-09 21:00:23 >> .<EOL>
+21-10-09 21:00:24 << 250 2.0.0 OK  1633793427 g23sm2524945pfu.71 - gsmtp<EOL>
+21-10-09 21:00:24 >> QUIT<EOL>
+21-10-09 21:00:24 << 221 2.0.0 closing connection g23sm2524945pfu.71 - gsmtp<EOL>
+21-10-09 21:00:24 ** Disconnecting from smtp.gmail.com:587
+21-10-09 21:00:24 ** Disconnected.
+21-10-09 21:00:24 ** Disconnected.
+21-10-09 21:48:29 ** --- MESSAGE BEGIN ---
+21-10-09 21:48:29 ** To: kannanca02@gmail.com
+21-10-09 21:48:29 ** Subject: myran book
+21-10-09 21:48:29 ** From: wastemanagementstate@gmail.com
+21-10-09 21:48:29 ** 
+21-10-09 21:48:29 ** Your password reset code is oombii
+21-10-09 21:48:29 ** --- MESSAGE END ---
+21-10-09 21:48:30 ** Connecting to smtp.gmail.com:587
+21-10-09 21:48:31 ** Connected.
+21-10-09 21:48:31 << 220 smtp.gmail.com ESMTP g14sm12089306pjd.24 - gsmtp<EOL>
+21-10-09 21:48:31 >> EHLO DESKTOP-30PHAAL<EOL>
+21-10-09 21:48:31 << 250-smtp.gmail.com at your service, [103.165.21.192]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21-10-09 21:48:31 ** Authenticating as wastemanagementstate@gmail.com
+21-10-09 21:48:31 >> STARTTLS<EOL>
+21-10-09 21:48:31 << 220 2.0.0 Ready to start TLS<EOL>
+21-10-09 21:48:32 >> EHLO DESKTOP-30PHAAL<EOL>
+21-10-09 21:48:32 << 250-smtp.gmail.com at your service, [103.165.21.192]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21-10-09 21:48:32 >> AUTH LOGIN<EOL>
+21-10-09 21:48:32 << 334 VXNlcm5hbWU6<EOL>
+21-10-09 21:48:32 >> d2FzdGVtYW5hZ2VtZW50c3RhdGVAZ21haWwuY29t<EOL>
+21-10-09 21:48:32 << 334 UGFzc3dvcmQ6<EOL>
+21-10-09 21:48:32 >> ODA3NTIzMDU0MQ==<EOL>
+21-10-09 21:48:33 << 235 2.7.0 Accepted<EOL>
+21-10-09 21:48:33 >> MAIL FROM: <wastemanagementstate@gmail.com><EOL>
+21-10-09 21:48:33 << 250 2.1.0 OK g14sm12089306pjd.24 - gsmtp<EOL>
+21-10-09 21:48:33 >> RCPT TO: <kannanca02@gmail.com><EOL>
+21-10-09 21:48:33 << 250 2.1.5 OK g14sm12089306pjd.24 - gsmtp<EOL>
+21-10-09 21:48:33 >> DATA<EOL>
+21-10-09 21:48:33 << 354  Go ahead g14sm12089306pjd.24 - gsmtp<EOL>
+21-10-09 21:48:33 >> Date: Sat, 9 Oct 2021 21:48:33 +0530<EOL>
+21-10-09 21:48:33 >> To: kannanca02@gmail.com<EOL>
+21-10-09 21:48:33 >> Subject: myran book<EOL>
+21-10-09 21:48:33 >> From: wastemanagementstate@gmail.com<EOL>
+21-10-09 21:48:33 >> <EOL>
+21-10-09 21:48:33 >> Your password reset code is oombii<EOL>
+21-10-09 21:48:33 >> .<EOL>
+21-10-09 21:48:34 << 250 2.0.0 OK  1633796317 g14sm12089306pjd.24 - gsmtp<EOL>
+21-10-09 21:48:34 >> QUIT<EOL>
+21-10-09 21:48:35 << 221 2.0.0 closing connection g14sm12089306pjd.24 - gsmtp<EOL>
+21-10-09 21:48:35 ** Disconnecting from smtp.gmail.com:587
+21-10-09 21:48:35 ** Disconnected.
+21-10-09 21:48:35 ** Disconnected.
+21-10-09 22:10:06 ** --- MESSAGE BEGIN ---
+21-10-09 22:10:06 ** To: kannanca02@gmail.com
+21-10-09 22:10:06 ** Subject: myran book
+21-10-09 22:10:06 ** From: wastemanagementstate@gmail.com
+21-10-09 22:10:06 ** 
+21-10-09 22:10:06 ** Your password reset code is oombii
+21-10-09 22:10:06 ** --- MESSAGE END ---
+21-10-09 22:10:07 ** Connecting to smtp.gmail.com:587
+21-10-09 22:10:08 ** Connected.
+21-10-09 22:10:08 << 220 smtp.gmail.com ESMTP j17sm3057298pga.55 - gsmtp<EOL>
+21-10-09 22:10:08 >> EHLO DESKTOP-30PHAAL<EOL>
+21-10-09 22:10:08 << 250-smtp.gmail.com at your service, [103.165.21.192]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21-10-09 22:10:08 ** Authenticating as wastemanagementstate@gmail.com
+21-10-09 22:10:08 >> STARTTLS<EOL>
+21-10-09 22:10:08 << 220 2.0.0 Ready to start TLS<EOL>
+21-10-09 22:10:08 >> EHLO DESKTOP-30PHAAL<EOL>
+21-10-09 22:10:08 << 250-smtp.gmail.com at your service, [103.165.21.192]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21-10-09 22:10:08 >> AUTH LOGIN<EOL>
+21-10-09 22:10:09 << 334 VXNlcm5hbWU6<EOL>
+21-10-09 22:10:09 >> d2FzdGVtYW5hZ2VtZW50c3RhdGVAZ21haWwuY29t<EOL>
+21-10-09 22:10:09 << 334 UGFzc3dvcmQ6<EOL>
+21-10-09 22:10:09 >> ODA3NTIzMDU0MQ==<EOL>
+21-10-09 22:10:09 << 235 2.7.0 Accepted<EOL>
+21-10-09 22:10:09 >> MAIL FROM: <wastemanagementstate@gmail.com><EOL>
+21-10-09 22:10:09 << 250 2.1.0 OK j17sm3057298pga.55 - gsmtp<EOL>
+21-10-09 22:10:09 >> RCPT TO: <kannanca02@gmail.com><EOL>
+21-10-09 22:10:10 << 250 2.1.5 OK j17sm3057298pga.55 - gsmtp<EOL>
+21-10-09 22:10:10 >> DATA<EOL>
+21-10-09 22:10:10 << 354  Go ahead j17sm3057298pga.55 - gsmtp<EOL>
+21-10-09 22:10:10 >> Date: Sat, 9 Oct 2021 22:10:10 +0530<EOL>
+21-10-09 22:10:10 >> To: kannanca02@gmail.com<EOL>
+21-10-09 22:10:10 >> Subject: myran book<EOL>
+21-10-09 22:10:10 >> From: wastemanagementstate@gmail.com<EOL>
+21-10-09 22:10:10 >> <EOL>
+21-10-09 22:10:10 >> Your password reset code is oombii<EOL>
+21-10-09 22:10:10 >> .<EOL>
+21-10-09 22:10:11 << 250 2.0.0 OK  1633797614 j17sm3057298pga.55 - gsmtp<EOL>
+21-10-09 22:10:11 >> QUIT<EOL>
+21-10-09 22:10:11 << 221 2.0.0 closing connection j17sm3057298pga.55 - gsmtp<EOL>
+21-10-09 22:10:11 ** Disconnecting from smtp.gmail.com:587
+21-10-09 22:10:11 ** Disconnected.
+21-10-09 22:10:11 ** Disconnected.
+21-10-09 23:17:24 ** --- MESSAGE BEGIN ---
+21-10-09 23:17:24 ** To: kannanca02@gmail.com
+21-10-09 23:17:24 ** Subject: myran book
+21-10-09 23:17:24 ** From: wastemanagementstate@gmail.com
+21-10-09 23:17:24 ** 
+21-10-09 23:17:24 ** Your password reset code is oombii
+21-10-09 23:17:24 ** --- MESSAGE END ---
+21-10-09 23:17:25 ** Connecting to smtp.gmail.com:587
+21-10-09 23:17:26 ** Connected.
+21-10-09 23:17:26 << 220 smtp.gmail.com ESMTP l10sm2774635pff.119 - gsmtp<EOL>
+21-10-09 23:17:26 >> EHLO DESKTOP-30PHAAL<EOL>
+21-10-09 23:17:26 << 250-smtp.gmail.com at your service, [103.165.21.192]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21-10-09 23:17:26 ** Authenticating as wastemanagementstate@gmail.com
+21-10-09 23:17:26 >> STARTTLS<EOL>
+21-10-09 23:17:26 << 220 2.0.0 Ready to start TLS<EOL>
+21-10-09 23:17:27 >> EHLO DESKTOP-30PHAAL<EOL>
+21-10-09 23:17:27 << 250-smtp.gmail.com at your service, [103.165.21.192]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21-10-09 23:17:27 >> AUTH LOGIN<EOL>
+21-10-09 23:17:27 << 334 VXNlcm5hbWU6<EOL>
+21-10-09 23:17:27 >> d2FzdGVtYW5hZ2VtZW50c3RhdGVAZ21haWwuY29t<EOL>
+21-10-09 23:17:27 << 334 UGFzc3dvcmQ6<EOL>
+21-10-09 23:17:27 >> ODA3NTIzMDU0MQ==<EOL>
+21-10-09 23:17:28 << 235 2.7.0 Accepted<EOL>
+21-10-09 23:17:28 >> MAIL FROM: <wastemanagementstate@gmail.com><EOL>
+21-10-09 23:17:28 << 250 2.1.0 OK l10sm2774635pff.119 - gsmtp<EOL>
+21-10-09 23:17:28 >> RCPT TO: <kannanca02@gmail.com><EOL>
+21-10-09 23:17:28 << 250 2.1.5 OK l10sm2774635pff.119 - gsmtp<EOL>
+21-10-09 23:17:28 >> DATA<EOL>
+21-10-09 23:17:29 << 354  Go ahead l10sm2774635pff.119 - gsmtp<EOL>
+21-10-09 23:17:29 >> Date: Sat, 9 Oct 2021 23:17:29 +0530<EOL>
+21-10-09 23:17:29 >> To: kannanca02@gmail.com<EOL>
+21-10-09 23:17:29 >> Subject: myran book<EOL>
+21-10-09 23:17:29 >> From: wastemanagementstate@gmail.com<EOL>
+21-10-09 23:17:29 >> <EOL>
+21-10-09 23:17:29 >> Your password reset code is oombii<EOL>
+21-10-09 23:17:29 >> .<EOL>
+21-10-09 23:17:29 << 250 2.0.0 OK  1633801652 l10sm2774635pff.119 - gsmtp<EOL>
+21-10-09 23:17:29 >> QUIT<EOL>
+21-10-09 23:17:30 << 221 2.0.0 closing connection l10sm2774635pff.119 - gsmtp<EOL>
+21-10-09 23:17:30 ** Disconnecting from smtp.gmail.com:587
+21-10-09 23:17:30 ** Disconnected.
+21-10-09 23:17:30 ** Disconnected.
+21-10-10 00:13:34 ** --- MESSAGE BEGIN ---
+21-10-10 00:13:34 ** To: kannanca02@gmail.com
+21-10-10 00:13:34 ** Subject: myran book
+21-10-10 00:13:34 ** From: wastemanagementstate@gmail.com
+21-10-10 00:13:34 ** 
+21-10-10 00:13:34 ** Your password reset code is oombii
+21-10-10 00:13:34 ** --- MESSAGE END ---
+21-10-10 00:13:36 ** Connecting to smtp.gmail.com:587
+21-10-10 00:13:36 ** Connected.
+21-10-10 00:13:36 << 220 smtp.gmail.com ESMTP e22sm2871284pfn.101 - gsmtp<EOL>
+21-10-10 00:13:36 >> EHLO DESKTOP-30PHAAL<EOL>
+21-10-10 00:13:36 << 250-smtp.gmail.com at your service, [103.165.21.192]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21-10-10 00:13:36 ** Authenticating as wastemanagementstate@gmail.com
+21-10-10 00:13:36 >> STARTTLS<EOL>
+21-10-10 00:13:37 << 220 2.0.0 Ready to start TLS<EOL>
+21-10-10 00:13:37 >> EHLO DESKTOP-30PHAAL<EOL>
+21-10-10 00:13:37 << 250-smtp.gmail.com at your service, [103.165.21.192]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21-10-10 00:13:37 >> AUTH LOGIN<EOL>
+21-10-10 00:13:37 << 334 VXNlcm5hbWU6<EOL>
+21-10-10 00:13:37 >> d2FzdGVtYW5hZ2VtZW50c3RhdGVAZ21haWwuY29t<EOL>
+21-10-10 00:13:37 << 334 UGFzc3dvcmQ6<EOL>
+21-10-10 00:13:37 >> ODA3NTIzMDU0MQ==<EOL>
+21-10-10 00:13:38 << 235 2.7.0 Accepted<EOL>
+21-10-10 00:13:38 >> MAIL FROM: <wastemanagementstate@gmail.com><EOL>
+21-10-10 00:13:38 << 250 2.1.0 OK e22sm2871284pfn.101 - gsmtp<EOL>
+21-10-10 00:13:38 >> RCPT TO: <kannanca02@gmail.com><EOL>
+21-10-10 00:13:38 << 250 2.1.5 OK e22sm2871284pfn.101 - gsmtp<EOL>
+21-10-10 00:13:38 >> DATA<EOL>
+21-10-10 00:13:39 << 354  Go ahead e22sm2871284pfn.101 - gsmtp<EOL>
+21-10-10 00:13:39 >> Date: Sun, 10 Oct 2021 00:13:39 +0530<EOL>
+21-10-10 00:13:39 >> To: kannanca02@gmail.com<EOL>
+21-10-10 00:13:39 >> Subject: myran book<EOL>
+21-10-10 00:13:39 >> From: wastemanagementstate@gmail.com<EOL>
+21-10-10 00:13:39 >> <EOL>
+21-10-10 00:13:39 >> Your password reset code is oombii<EOL>
+21-10-10 00:13:39 >> .<EOL>
+21-10-10 00:13:39 << 250 2.0.0 OK  1633805022 e22sm2871284pfn.101 - gsmtp<EOL>
+21-10-10 00:13:39 >> QUIT<EOL>
+21-10-10 00:13:39 << 221 2.0.0 closing connection e22sm2871284pfn.101 - gsmtp<EOL>
+21-10-10 00:13:39 ** Disconnecting from smtp.gmail.com:587
+21-10-10 00:13:40 ** Disconnected.
+21-10-10 00:13:40 ** Disconnected.
+21-10-10 00:49:56 ** --- MESSAGE BEGIN ---
+21-10-10 00:49:56 ** To: kannanca02@gmail.com
+21-10-10 00:49:56 ** Subject: myran book
+21-10-10 00:49:56 ** From: wastemanagementstate@gmail.com
+21-10-10 00:49:56 ** 
+21-10-10 00:49:56 ** Your password reset code is oombii
+21-10-10 00:49:56 ** --- MESSAGE END ---
+21-10-10 00:49:57 ** Connecting to smtp.gmail.com:587
+21-10-10 00:49:58 ** Connected.
+21-10-10 00:49:58 << 220 smtp.gmail.com ESMTP i128sm2953416pfc.47 - gsmtp<EOL>
+21-10-10 00:49:58 >> EHLO DESKTOP-30PHAAL<EOL>
+21-10-10 00:49:58 << 250-smtp.gmail.com at your service, [103.165.21.192]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21-10-10 00:49:58 ** Authenticating as wastemanagementstate@gmail.com
+21-10-10 00:49:58 >> STARTTLS<EOL>
+21-10-10 00:49:58 << 220 2.0.0 Ready to start TLS<EOL>
+21-10-10 00:49:58 >> EHLO DESKTOP-30PHAAL<EOL>
+21-10-10 00:49:58 << 250-smtp.gmail.com at your service, [103.165.21.192]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21-10-10 00:49:58 >> AUTH LOGIN<EOL>
+21-10-10 00:49:59 << 334 VXNlcm5hbWU6<EOL>
+21-10-10 00:49:59 >> d2FzdGVtYW5hZ2VtZW50c3RhdGVAZ21haWwuY29t<EOL>
+21-10-10 00:49:59 << 334 UGFzc3dvcmQ6<EOL>
+21-10-10 00:49:59 >> ODA3NTIzMDU0MQ==<EOL>
+21-10-10 00:49:59 << 235 2.7.0 Accepted<EOL>
+21-10-10 00:49:59 >> MAIL FROM: <wastemanagementstate@gmail.com><EOL>
+21-10-10 00:49:59 << 250 2.1.0 OK i128sm2953416pfc.47 - gsmtp<EOL>
+21-10-10 00:49:59 >> RCPT TO: <kannanca02@gmail.com><EOL>
+21-10-10 00:50:00 << 250 2.1.5 OK i128sm2953416pfc.47 - gsmtp<EOL>
+21-10-10 00:50:00 >> DATA<EOL>
+21-10-10 00:50:00 << 354  Go ahead i128sm2953416pfc.47 - gsmtp<EOL>
+21-10-10 00:50:00 >> Date: Sun, 10 Oct 2021 00:50:00 +0530<EOL>
+21-10-10 00:50:00 >> To: kannanca02@gmail.com<EOL>
+21-10-10 00:50:00 >> Subject: myran book<EOL>
+21-10-10 00:50:00 >> From: wastemanagementstate@gmail.com<EOL>
+21-10-10 00:50:00 >> <EOL>
+21-10-10 00:50:00 >> Your password reset code is oombii<EOL>
+21-10-10 00:50:00 >> .<EOL>
+21-10-10 00:50:01 << 250 2.0.0 OK  1633807204 i128sm2953416pfc.47 - gsmtp<EOL>
+21-10-10 00:50:01 >> QUIT<EOL>
+21-10-10 00:50:01 << 221 2.0.0 closing connection i128sm2953416pfc.47 - gsmtp<EOL>
+21-10-10 00:50:01 ** Disconnecting from smtp.gmail.com:587
+21-10-10 00:50:01 ** Disconnected.
+21-10-10 00:50:01 ** Disconnected.
+21-10-10 00:59:30 ** --- MESSAGE BEGIN ---
+21-10-10 00:59:30 ** To: kannanca02@gmail.com
+21-10-10 00:59:30 ** Subject: myran book
+21-10-10 00:59:30 ** From: wastemanagementstate@gmail.com
+21-10-10 00:59:30 ** 
+21-10-10 00:59:30 ** Your password reset code is oombii
+21-10-10 00:59:30 ** --- MESSAGE END ---
+21-10-10 00:59:31 ** Connecting to smtp.gmail.com:587
+21-10-10 00:59:32 ** Connected.
+21-10-10 00:59:32 << 220 smtp.gmail.com ESMTP q73sm3107829pfc.179 - gsmtp<EOL>
+21-10-10 00:59:32 >> EHLO DESKTOP-30PHAAL<EOL>
+21-10-10 00:59:32 << 250-smtp.gmail.com at your service, [103.165.21.192]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21-10-10 00:59:32 ** Authenticating as wastemanagementstate@gmail.com
+21-10-10 00:59:32 >> STARTTLS<EOL>
+21-10-10 00:59:33 << 220 2.0.0 Ready to start TLS<EOL>
+21-10-10 00:59:33 >> EHLO DESKTOP-30PHAAL<EOL>
+21-10-10 00:59:33 << 250-smtp.gmail.com at your service, [103.165.21.192]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21-10-10 00:59:33 >> AUTH LOGIN<EOL>
+21-10-10 00:59:33 << 334 VXNlcm5hbWU6<EOL>
+21-10-10 00:59:33 >> d2FzdGVtYW5hZ2VtZW50c3RhdGVAZ21haWwuY29t<EOL>
+21-10-10 00:59:33 << 334 UGFzc3dvcmQ6<EOL>
+21-10-10 00:59:33 >> ODA3NTIzMDU0MQ==<EOL>
+21-10-10 00:59:34 << 235 2.7.0 Accepted<EOL>
+21-10-10 00:59:34 >> MAIL FROM: <wastemanagementstate@gmail.com><EOL>
+21-10-10 00:59:34 << 250 2.1.0 OK q73sm3107829pfc.179 - gsmtp<EOL>
+21-10-10 00:59:34 >> RCPT TO: <kannanca02@gmail.com><EOL>
+21-10-10 00:59:34 << 250 2.1.5 OK q73sm3107829pfc.179 - gsmtp<EOL>
+21-10-10 00:59:34 >> DATA<EOL>
+21-10-10 00:59:34 << 354  Go ahead q73sm3107829pfc.179 - gsmtp<EOL>
+21-10-10 00:59:34 >> Date: Sun, 10 Oct 2021 00:59:34 +0530<EOL>
+21-10-10 00:59:34 >> To: kannanca02@gmail.com<EOL>
+21-10-10 00:59:34 >> Subject: myran book<EOL>
+21-10-10 00:59:34 >> From: wastemanagementstate@gmail.com<EOL>
+21-10-10 00:59:34 >> <EOL>
+21-10-10 00:59:34 >> Your password reset code is oombii<EOL>
+21-10-10 00:59:34 >> .<EOL>
+21-10-10 00:59:35 << 250 2.0.0 OK  1633807778 q73sm3107829pfc.179 - gsmtp<EOL>
+21-10-10 00:59:35 >> QUIT<EOL>
+21-10-10 00:59:35 << 221 2.0.0 closing connection q73sm3107829pfc.179 - gsmtp<EOL>
+21-10-10 00:59:35 ** Disconnecting from smtp.gmail.com:587
+21-10-10 00:59:35 ** Disconnected.
+21-10-10 00:59:35 ** Disconnected.
+21-10-10 01:02:30 ** --- MESSAGE BEGIN ---
+21-10-10 01:02:30 ** To: kannanca02@gmail.com
+21-10-10 01:02:30 ** Subject: myran book
+21-10-10 01:02:31 ** From: wastemanagementstate@gmail.com
+21-10-10 01:02:31 ** 
+21-10-10 01:02:31 ** Your password reset code is oombii
+21-10-10 01:02:31 ** --- MESSAGE END ---
+21-10-10 01:02:32 ** Connecting to smtp.gmail.com:587
+21-10-10 01:02:32 ** Connected.
+21-10-10 01:02:32 << 220 smtp.gmail.com ESMTP x11sm3145178pfh.75 - gsmtp<EOL>
+21-10-10 01:02:32 >> EHLO DESKTOP-30PHAAL<EOL>
+21-10-10 01:02:33 << 250-smtp.gmail.com at your service, [103.165.21.192]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21-10-10 01:02:33 ** Authenticating as wastemanagementstate@gmail.com
+21-10-10 01:02:33 >> STARTTLS<EOL>
+21-10-10 01:02:33 << 220 2.0.0 Ready to start TLS<EOL>
+21-10-10 01:02:33 >> EHLO DESKTOP-30PHAAL<EOL>
+21-10-10 01:02:33 << 250-smtp.gmail.com at your service, [103.165.21.192]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21-10-10 01:02:33 >> AUTH LOGIN<EOL>
+21-10-10 01:02:33 << 334 VXNlcm5hbWU6<EOL>
+21-10-10 01:02:33 >> d2FzdGVtYW5hZ2VtZW50c3RhdGVAZ21haWwuY29t<EOL>
+21-10-10 01:02:34 << 334 UGFzc3dvcmQ6<EOL>
+21-10-10 01:02:34 >> ODA3NTIzMDU0MQ==<EOL>
+21-10-10 01:02:34 << 235 2.7.0 Accepted<EOL>
+21-10-10 01:02:34 >> MAIL FROM: <wastemanagementstate@gmail.com><EOL>
+21-10-10 01:02:34 << 250 2.1.0 OK x11sm3145178pfh.75 - gsmtp<EOL>
+21-10-10 01:02:34 >> RCPT TO: <kannanca02@gmail.com><EOL>
+21-10-10 01:02:34 << 250 2.1.5 OK x11sm3145178pfh.75 - gsmtp<EOL>
+21-10-10 01:02:34 >> DATA<EOL>
+21-10-10 01:02:35 << 354  Go ahead x11sm3145178pfh.75 - gsmtp<EOL>
+21-10-10 01:02:35 >> Date: Sun, 10 Oct 2021 01:02:35 +0530<EOL>
+21-10-10 01:02:35 >> To: kannanca02@gmail.com<EOL>
+21-10-10 01:02:35 >> Subject: myran book<EOL>
+21-10-10 01:02:35 >> From: wastemanagementstate@gmail.com<EOL>
+21-10-10 01:02:35 >> <EOL>
+21-10-10 01:02:35 >> Your password reset code is oombii<EOL>
+21-10-10 01:02:35 >> .<EOL>
+21-10-10 01:02:35 << 250 2.0.0 OK  1633807958 x11sm3145178pfh.75 - gsmtp<EOL>
+21-10-10 01:02:35 >> QUIT<EOL>
+21-10-10 01:02:35 << 221 2.0.0 closing connection x11sm3145178pfh.75 - gsmtp<EOL>
+21-10-10 01:02:35 ** Disconnecting from smtp.gmail.com:587
+21-10-10 01:02:35 ** Disconnected.
+21-10-10 01:02:35 ** Disconnected.
+21-10-10 13:21:36 ** --- MESSAGE BEGIN ---
+21-10-10 13:21:36 ** To: To:kannanca02@gmail.com
+21-10-10 13:21:36 ** Subject: myran book
+21-10-10 13:21:36 ** From: wastemanagementstate@gmail.com
+21-10-10 13:21:36 ** 
+21-10-10 13:21:36 ** Your password reset code is oombii
+21-10-10 13:21:36 ** --- MESSAGE END ---
+21-10-10 13:21:38 ** Connecting to smtp.gmail.com:587
+21-10-10 13:21:38 ** Disconnected.
+21-10-10 13:21:38 ** Disconnected.
+21-10-10 13:21:38 ** Disconnected.
+21-10-10 13:21:38 ** Socket Error # 11001<EOL>Host not found.
+21-10-10 13:43:52 ** --- MESSAGE BEGIN ---
+21-10-10 13:43:52 ** To: To:kannanca02@gmail.com
+21-10-10 13:43:52 ** Subject: myran book
+21-10-10 13:43:52 ** From: wastemanagementstate@gmail.com
+21-10-10 13:43:52 ** 
+21-10-10 13:43:52 ** Your password reset code is oombii
+21-10-10 13:43:52 ** --- MESSAGE END ---
+21-10-10 13:43:54 ** Connecting to smtp.gmail.com:587
+21-10-10 13:43:54 ** Connected.
+21-10-10 13:43:54 << 220 smtp.gmail.com ESMTP r5sm3810151pjd.13 - gsmtp<EOL>
+21-10-10 13:43:54 >> EHLO DESKTOP-30PHAAL<EOL>
+21-10-10 13:43:55 << 250-smtp.gmail.com at your service, [103.165.20.172]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21-10-10 13:43:55 ** Authenticating as wastemanagementstate@gmail.com
+21-10-10 13:43:55 >> STARTTLS<EOL>
+21-10-10 13:43:55 << 220 2.0.0 Ready to start TLS<EOL>
+21-10-10 13:43:55 >> EHLO DESKTOP-30PHAAL<EOL>
+21-10-10 13:43:55 << 250-smtp.gmail.com at your service, [103.165.20.172]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21-10-10 13:43:55 >> AUTH LOGIN<EOL>
+21-10-10 13:43:56 << 334 VXNlcm5hbWU6<EOL>
+21-10-10 13:43:56 >> d2FzdGVtYW5hZ2VtZW50c3RhdGVAZ21haWwuY29t<EOL>
+21-10-10 13:43:56 << 334 UGFzc3dvcmQ6<EOL>
+21-10-10 13:43:56 >> ODA3NTIzMDU0MQ==<EOL>
+21-10-10 13:43:56 << 235 2.7.0 Accepted<EOL>
+21-10-10 13:43:56 >> MAIL FROM: <wastemanagementstate@gmail.com><EOL>
+21-10-10 13:43:56 << 250 2.1.0 OK r5sm3810151pjd.13 - gsmtp<EOL>
+21-10-10 13:43:56 >> RCPT TO: <kannanca02@gmail.com><EOL>
+21-10-10 13:43:57 << 250 2.1.5 OK r5sm3810151pjd.13 - gsmtp<EOL>
+21-10-10 13:43:57 >> DATA<EOL>
+21-10-10 13:43:57 << 354  Go ahead r5sm3810151pjd.13 - gsmtp<EOL>
+21-10-10 13:43:57 >> Date: Sun, 10 Oct 2021 13:43:57 +0530<EOL>
+21-10-10 13:43:57 >> To: To:kannanca02@gmail.com<EOL>
+21-10-10 13:43:57 >> Subject: myran book<EOL>
+21-10-10 13:43:57 >> From: wastemanagementstate@gmail.com<EOL>
+21-10-10 13:43:57 >> <EOL>
+21-10-10 13:43:57 >> Your password reset code is oombii<EOL>
+21-10-10 13:43:57 >> .<EOL>
+21-10-10 13:43:58 << 250 2.0.0 OK  1633853642 r5sm3810151pjd.13 - gsmtp<EOL>
+21-10-10 13:43:58 >> QUIT<EOL>
+21-10-10 13:43:58 << 221 2.0.0 closing connection r5sm3810151pjd.13 - gsmtp<EOL>
+21-10-10 13:43:58 ** Disconnecting from smtp.gmail.com:587
+21-10-10 13:43:58 ** Disconnected.
+21-10-10 13:43:58 ** Disconnected.
+21-10-10 16:52:07 ** --- MESSAGE BEGIN ---
+21-10-10 16:52:07 ** To: To:kannanca02@gmail.com
+21-10-10 16:52:07 ** Subject: myran book
+21-10-10 16:52:07 ** From: wastemanagementstate@gmail.com
+21-10-10 16:52:07 ** 
+21-10-10 16:52:07 ** Your password reset code is oombii
+21-10-10 16:52:07 ** --- MESSAGE END ---
+21-10-10 16:52:08 ** Connecting to smtp.gmail.com:587
+21-10-10 16:52:08 ** Connected.
+21-10-10 16:52:08 << 220 smtp.gmail.com ESMTP j12sm4430373pff.127 - gsmtp<EOL>
+21-10-10 16:52:08 >> EHLO DESKTOP-30PHAAL<EOL>
+21-10-10 16:52:09 << 250-smtp.gmail.com at your service, [103.165.20.203]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21-10-10 16:52:09 ** Authenticating as wastemanagementstate@gmail.com
+21-10-10 16:52:09 >> STARTTLS<EOL>
+21-10-10 16:52:09 << 220 2.0.0 Ready to start TLS<EOL>
+21-10-10 16:52:09 >> EHLO DESKTOP-30PHAAL<EOL>
+21-10-10 16:52:09 << 250-smtp.gmail.com at your service, [103.165.20.203]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21-10-10 16:52:09 >> AUTH LOGIN<EOL>
+21-10-10 16:52:09 << 334 VXNlcm5hbWU6<EOL>
+21-10-10 16:52:09 >> d2FzdGVtYW5hZ2VtZW50c3RhdGVAZ21haWwuY29t<EOL>
+21-10-10 16:52:10 << 334 UGFzc3dvcmQ6<EOL>
+21-10-10 16:52:10 >> ODA3NTIzMDU0MQ==<EOL>
+21-10-10 16:52:10 << 235 2.7.0 Accepted<EOL>
+21-10-10 16:52:10 >> MAIL FROM: <wastemanagementstate@gmail.com><EOL>
+21-10-10 16:52:10 << 250 2.1.0 OK j12sm4430373pff.127 - gsmtp<EOL>
+21-10-10 16:52:10 >> RCPT TO: <kannanca02@gmail.com><EOL>
+21-10-10 16:52:10 << 250 2.1.5 OK j12sm4430373pff.127 - gsmtp<EOL>
+21-10-10 16:52:10 >> DATA<EOL>
+21-10-10 16:52:11 << 354  Go ahead j12sm4430373pff.127 - gsmtp<EOL>
+21-10-10 16:52:11 >> Date: Sun, 10 Oct 2021 16:52:11 +0530<EOL>
+21-10-10 16:52:11 >> To: To:kannanca02@gmail.com<EOL>
+21-10-10 16:52:11 >> Subject: myran book<EOL>
+21-10-10 16:52:11 >> From: wastemanagementstate@gmail.com<EOL>
+21-10-10 16:52:11 >> <EOL>
+21-10-10 16:52:11 >> Your password reset code is oombii<EOL>
+21-10-10 16:52:11 >> .<EOL>
+21-10-10 16:52:12 << 250 2.0.0 OK  1633864936 j12sm4430373pff.127 - gsmtp<EOL>
+21-10-10 16:52:12 >> QUIT<EOL>
+21-10-10 16:52:12 << 221 2.0.0 closing connection j12sm4430373pff.127 - gsmtp<EOL>
+21-10-10 16:52:12 ** Disconnecting from smtp.gmail.com:587
+21-10-10 16:52:12 ** Disconnected.
+21-10-10 16:52:12 ** Disconnected.
+21-10-10 19:53:08 ** --- MESSAGE BEGIN ---
+21-10-10 19:53:08 ** To: To:kannanca02@gmail.com
+21-10-10 19:53:08 ** Subject: myran book
+21-10-10 19:53:08 ** From: wastemanagementstate@gmail.com
+21-10-10 19:53:08 ** 
+21-10-10 19:53:08 ** Your password reset code is oombii
+21-10-10 19:53:08 ** --- MESSAGE END ---
+21-10-10 19:53:09 ** Connecting to smtp.gmail.com:587
+21-10-10 19:53:09 ** Connected.
+21-10-10 19:53:09 << 220 smtp.gmail.com ESMTP w13sm3368830pfc.10 - gsmtp<EOL>
+21-10-10 19:53:09 >> EHLO DESKTOP-30PHAAL<EOL>
+21-10-10 19:53:09 << 250-smtp.gmail.com at your service, [103.165.21.146]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21-10-10 19:53:09 ** Authenticating as wastemanagementstate@gmail.com
+21-10-10 19:53:09 >> STARTTLS<EOL>
+21-10-10 19:53:10 << 220 2.0.0 Ready to start TLS<EOL>
+21-10-10 19:53:10 >> EHLO DESKTOP-30PHAAL<EOL>
+21-10-10 19:53:10 << 250-smtp.gmail.com at your service, [103.165.21.146]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21-10-10 19:53:10 >> AUTH LOGIN<EOL>
+21-10-10 19:53:10 << 334 VXNlcm5hbWU6<EOL>
+21-10-10 19:53:10 >> d2FzdGVtYW5hZ2VtZW50c3RhdGVAZ21haWwuY29t<EOL>
+21-10-10 19:53:10 << 334 UGFzc3dvcmQ6<EOL>
+21-10-10 19:53:10 >> ODA3NTIzMDU0MQ==<EOL>
+21-10-10 19:53:11 << 235 2.7.0 Accepted<EOL>
+21-10-10 19:53:11 >> MAIL FROM: <wastemanagementstate@gmail.com><EOL>
+21-10-10 19:53:11 << 250 2.1.0 OK w13sm3368830pfc.10 - gsmtp<EOL>
+21-10-10 19:53:11 >> RCPT TO: <kannanca02@gmail.com><EOL>
+21-10-10 19:53:11 << 250 2.1.5 OK w13sm3368830pfc.10 - gsmtp<EOL>
+21-10-10 19:53:11 >> DATA<EOL>
+21-10-10 19:53:12 << 354  Go ahead w13sm3368830pfc.10 - gsmtp<EOL>
+21-10-10 19:53:12 >> Date: Sun, 10 Oct 2021 19:53:12 +0530<EOL>
+21-10-10 19:53:12 >> To: To:kannanca02@gmail.com<EOL>
+21-10-10 19:53:12 >> Subject: myran book<EOL>
+21-10-10 19:53:12 >> From: wastemanagementstate@gmail.com<EOL>
+21-10-10 19:53:12 >> <EOL>
+21-10-10 19:53:12 >> Your password reset code is oombii<EOL>
+21-10-10 19:53:12 >> .<EOL>
+21-10-10 19:53:13 << 250 2.0.0 OK  1633875797 w13sm3368830pfc.10 - gsmtp<EOL>
+21-10-10 19:53:13 >> QUIT<EOL>
+21-10-10 19:53:13 << 221 2.0.0 closing connection w13sm3368830pfc.10 - gsmtp<EOL>
+21-10-10 19:53:13 ** Disconnecting from smtp.gmail.com:587
+21-10-10 19:53:13 ** Disconnected.
+21-10-10 19:53:13 ** Disconnected.
+21-10-10 23:16:35 ** --- MESSAGE BEGIN ---
+21-10-10 23:16:35 ** To: To:kannanca02@gmail.com
+21-10-10 23:16:35 ** Subject: myran book
+21-10-10 23:16:35 ** From: wastemanagementstate@gmail.com
+21-10-10 23:16:35 ** 
+21-10-10 23:16:35 ** Your password reset code is oombii
+21-10-10 23:16:35 ** --- MESSAGE END ---
+21-10-10 23:16:36 ** Connecting to smtp.gmail.com:587
+21-10-10 23:16:37 ** Connected.
+21-10-10 23:16:37 << 220 smtp.gmail.com ESMTP u3sm5174723pfl.155 - gsmtp<EOL>
+21-10-10 23:16:37 >> EHLO DESKTOP-30PHAAL<EOL>
+21-10-10 23:16:37 << 250-smtp.gmail.com at your service, [103.165.21.146]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21-10-10 23:16:37 ** Authenticating as wastemanagementstate@gmail.com
+21-10-10 23:16:37 >> STARTTLS<EOL>
+21-10-10 23:16:37 << 220 2.0.0 Ready to start TLS<EOL>
+21-10-10 23:16:37 >> EHLO DESKTOP-30PHAAL<EOL>
+21-10-10 23:16:37 << 250-smtp.gmail.com at your service, [103.165.21.146]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21-10-10 23:16:37 >> AUTH LOGIN<EOL>
+21-10-10 23:16:38 << 334 VXNlcm5hbWU6<EOL>
+21-10-10 23:16:38 >> d2FzdGVtYW5hZ2VtZW50c3RhdGVAZ21haWwuY29t<EOL>
+21-10-10 23:16:38 << 334 UGFzc3dvcmQ6<EOL>
+21-10-10 23:16:38 >> ODA3NTIzMDU0MQ==<EOL>
+21-10-10 23:16:38 << 235 2.7.0 Accepted<EOL>
+21-10-10 23:16:38 >> MAIL FROM: <wastemanagementstate@gmail.com><EOL>
+21-10-10 23:16:38 << 250 2.1.0 OK u3sm5174723pfl.155 - gsmtp<EOL>
+21-10-10 23:16:38 >> RCPT TO: <kannanca02@gmail.com><EOL>
+21-10-10 23:16:39 << 250 2.1.5 OK u3sm5174723pfl.155 - gsmtp<EOL>
+21-10-10 23:16:39 >> DATA<EOL>
+21-10-10 23:16:39 << 354  Go ahead u3sm5174723pfl.155 - gsmtp<EOL>
+21-10-10 23:16:39 >> Date: Sun, 10 Oct 2021 23:16:39 +0530<EOL>
+21-10-10 23:16:39 >> To: To:kannanca02@gmail.com<EOL>
+21-10-10 23:16:39 >> Subject: myran book<EOL>
+21-10-10 23:16:39 >> From: wastemanagementstate@gmail.com<EOL>
+21-10-10 23:16:39 >> <EOL>
+21-10-10 23:16:39 >> Your password reset code is oombii<EOL>
+21-10-10 23:16:39 >> .<EOL>
+21-10-10 23:16:40 << 250 2.0.0 OK  1633888004 u3sm5174723pfl.155 - gsmtp<EOL>
+21-10-10 23:16:40 >> QUIT<EOL>
+21-10-10 23:16:40 << 221 2.0.0 closing connection u3sm5174723pfl.155 - gsmtp<EOL>
+21-10-10 23:16:40 ** Disconnecting from smtp.gmail.com:587
+21-10-10 23:16:40 ** Disconnected.
+21-10-10 23:16:40 ** Disconnected.
+21-10-11 18:37:08 ** --- MESSAGE BEGIN ---
+21-10-11 18:37:08 ** To: To:kannanca02@gmail.com
+21-10-11 18:37:08 ** Subject: myran book
+21-10-11 18:37:08 ** From: wastemanagementstate@gmail.com
+21-10-11 18:37:08 ** 
+21-10-11 18:37:08 ** Your password reset code is oombii
+21-10-11 18:37:08 ** --- MESSAGE END ---
+21-10-11 18:37:10 ** Connecting to smtp.gmail.com:587
+21-10-11 18:37:10 ** Disconnected.
+21-10-11 18:37:10 ** Disconnected.
+21-10-11 18:37:10 ** Disconnected.
+21-10-11 18:37:10 ** Socket Error # 11001<EOL>Host not found.
+21-10-11 19:21:56 ** --- MESSAGE BEGIN ---
+21-10-11 19:21:56 ** To: To:kannanca02@gmail.com
+21-10-11 19:21:56 ** Subject: myran book
+21-10-11 19:21:56 ** From: wastemanagementstate@gmail.com
+21-10-11 19:21:56 ** 
+21-10-11 19:21:56 ** Your password reset code is oombii
+21-10-11 19:21:56 ** --- MESSAGE END ---
+21-10-11 19:21:57 ** Connecting to smtp.gmail.com:587
+21-10-11 19:21:57 ** Disconnected.
+21-10-11 19:21:57 ** Disconnected.
+21-10-11 19:21:57 ** Disconnected.
+21-10-11 19:21:57 ** Socket Error # 11001<EOL>Host not found.
+21-10-11 21:27:00 ** --- MESSAGE BEGIN ---
+21-10-11 21:27:00 ** To: akhilshaju92@gmail.com
+21-10-11 21:27:00 ** Subject: Password Reset Code
+21-10-11 21:27:00 ** From: wastemanagementstate@gmail.com
+21-10-11 21:27:00 ** 
+21-10-11 21:27:00 ** Your password reset code is 572975
+21-10-11 21:27:00 ** --- MESSAGE END ---
+21-10-11 21:27:01 ** Connecting to smtp.gmail.com:587
+21-10-11 21:27:01 ** Disconnected.
+21-10-11 21:27:01 ** Disconnected.
+21-10-11 21:27:01 ** Disconnected.
+21-10-11 21:27:01 ** Socket Error # 11001<EOL>Host not found.
+21-10-11 21:29:18 ** --- MESSAGE BEGIN ---
+21-10-11 21:29:18 ** To: akhilshaju92@gmail.com
+21-10-11 21:29:18 ** Subject: Password Reset Code
+21-10-11 21:29:18 ** From: wastemanagementstate@gmail.com
+21-10-11 21:29:18 ** 
+21-10-11 21:29:18 ** Your password reset code is 219080
+21-10-11 21:29:18 ** --- MESSAGE END ---
+21-10-11 21:29:19 ** Connecting to smtp.gmail.com:587
+21-10-11 21:29:19 ** Connected.
+21-10-11 21:29:19 << 220 smtp.gmail.com ESMTP i123sm8561785pfg.157 - gsmtp<EOL>
+21-10-11 21:29:19 >> EHLO DESKTOP-30PHAAL<EOL>
+21-10-11 21:29:19 << 250-smtp.gmail.com at your service, [106.203.90.4]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21-10-11 21:29:19 ** Authenticating as wastemanagementstate@gmail.com
+21-10-11 21:29:19 >> STARTTLS<EOL>
+21-10-11 21:29:20 << 220 2.0.0 Ready to start TLS<EOL>
+21-10-11 21:29:20 >> EHLO DESKTOP-30PHAAL<EOL>
+21-10-11 21:29:20 << 250-smtp.gmail.com at your service, [106.203.90.4]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21-10-11 21:29:20 >> AUTH LOGIN<EOL>
+21-10-11 21:29:20 << 334 VXNlcm5hbWU6<EOL>
+21-10-11 21:29:20 >> d2FzdGVtYW5hZ2VtZW50c3RhdGVAZ21haWwuY29t<EOL>
+21-10-11 21:29:21 << 334 UGFzc3dvcmQ6<EOL>
+21-10-11 21:29:21 >> ODA3NTIzMDU0MQ==<EOL>
+21-10-11 21:29:21 << 235 2.7.0 Accepted<EOL>
+21-10-11 21:29:21 >> MAIL FROM: <wastemanagementstate@gmail.com><EOL>
+21-10-11 21:29:21 << 250 2.1.0 OK i123sm8561785pfg.157 - gsmtp<EOL>
+21-10-11 21:29:21 >> RCPT TO: <akhilshaju92@gmail.com><EOL>
+21-10-11 21:29:22 << 250 2.1.5 OK i123sm8561785pfg.157 - gsmtp<EOL>
+21-10-11 21:29:22 >> DATA<EOL>
+21-10-11 21:29:22 << 354  Go ahead i123sm8561785pfg.157 - gsmtp<EOL>
+21-10-11 21:29:22 >> Date: Mon, 11 Oct 2021 21:29:22 +0530<EOL>
+21-10-11 21:29:22 >> To: akhilshaju92@gmail.com<EOL>
+21-10-11 21:29:22 >> Subject: Password Reset Code<EOL>
+21-10-11 21:29:22 >> From: wastemanagementstate@gmail.com<EOL>
+21-10-11 21:29:22 >> <EOL>
+21-10-11 21:29:22 >> Your password reset code is 219080<EOL>
+21-10-11 21:29:22 >> .<EOL>
+21-10-11 21:29:23 << 250 2.0.0 OK  1633967968 i123sm8561785pfg.157 - gsmtp<EOL>
+21-10-11 21:29:23 >> QUIT<EOL>
+21-10-11 21:29:24 << 221 2.0.0 closing connection i123sm8561785pfg.157 - gsmtp<EOL>
+21-10-11 21:29:24 ** Disconnected.
+21-10-11 21:29:24 ** Disconnected.
+21-10-11 21:29:24 ** Disconnected.
+21-10-11 21:46:32 ** --- MESSAGE BEGIN ---
+21-10-11 21:46:32 ** To: To:kannanca02@gmail.com
+21-10-11 21:46:32 ** Subject: myran book
+21-10-11 21:46:33 ** From: wastemanagementstate@gmail.com
+21-10-11 21:46:33 ** 
+21-10-11 21:46:33 ** Your password reset code is oombii
+21-10-11 21:46:33 ** --- MESSAGE END ---
+21-10-11 21:46:34 ** Connecting to smtp.gmail.com:587
+21-10-11 21:46:35 ** Connected.
+21-10-11 21:46:35 << 220 smtp.gmail.com ESMTP c8sm7910101pjr.38 - gsmtp<EOL>
+21-10-11 21:46:35 >> EHLO DESKTOP-30PHAAL<EOL>
+21-10-11 21:46:35 << 250-smtp.gmail.com at your service, [106.203.90.4]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21-10-11 21:46:35 ** Authenticating as wastemanagementstate@gmail.com
+21-10-11 21:46:35 >> STARTTLS<EOL>
+21-10-11 21:46:35 << 220 2.0.0 Ready to start TLS<EOL>
+21-10-11 21:46:35 >> EHLO DESKTOP-30PHAAL<EOL>
+21-10-11 21:46:35 << 250-smtp.gmail.com at your service, [106.203.90.4]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21-10-11 21:46:35 >> AUTH LOGIN<EOL>
+21-10-11 21:46:36 << 334 VXNlcm5hbWU6<EOL>
+21-10-11 21:46:36 >> d2FzdGVtYW5hZ2VtZW50c3RhdGVAZ21haWwuY29t<EOL>
+21-10-11 21:46:36 << 334 UGFzc3dvcmQ6<EOL>
+21-10-11 21:46:36 >> ODA3NTIzMDU0MQ==<EOL>
+21-10-11 21:46:36 << 235 2.7.0 Accepted<EOL>
+21-10-11 21:46:36 >> MAIL FROM: <wastemanagementstate@gmail.com><EOL>
+21-10-11 21:46:37 << 250 2.1.0 OK c8sm7910101pjr.38 - gsmtp<EOL>
+21-10-11 21:46:37 >> RCPT TO: <kannanca02@gmail.com><EOL>
+21-10-11 21:46:37 << 250 2.1.5 OK c8sm7910101pjr.38 - gsmtp<EOL>
+21-10-11 21:46:37 >> DATA<EOL>
+21-10-11 21:46:37 << 354  Go ahead c8sm7910101pjr.38 - gsmtp<EOL>
+21-10-11 21:46:37 >> Date: Mon, 11 Oct 2021 21:46:37 +0530<EOL>
+21-10-11 21:46:37 >> To: To:kannanca02@gmail.com<EOL>
+21-10-11 21:46:37 >> Subject: myran book<EOL>
+21-10-11 21:46:37 >> From: wastemanagementstate@gmail.com<EOL>
+21-10-11 21:46:37 >> <EOL>
+21-10-11 21:46:37 >> Your password reset code is oombii<EOL>
+21-10-11 21:46:37 >> .<EOL>
+21-10-11 21:46:38 << 250 2.0.0 OK  1633969003 c8sm7910101pjr.38 - gsmtp<EOL>
+21-10-11 21:46:38 >> QUIT<EOL>
+21-10-11 21:46:38 << 221 2.0.0 closing connection c8sm7910101pjr.38 - gsmtp<EOL>
+21-10-11 21:46:38 ** Disconnected.
+21-10-11 21:46:38 ** Disconnected.
+21-10-11 21:46:38 ** Disconnected.
+21-10-11 22:48:28 ** --- MESSAGE BEGIN ---
+21-10-11 22:48:28 ** To: To:kannanca02@gmail.com
+21-10-11 22:48:28 ** Subject: myran book
+21-10-11 22:48:28 ** From: wastemanagementstate@gmail.com
+21-10-11 22:48:28 ** 
+21-10-11 22:48:28 ** Your password reset code is oombii
+21-10-11 22:48:28 ** --- MESSAGE END ---
+21-10-11 22:48:29 ** Connecting to smtp.gmail.com:587
+21-10-11 22:48:29 ** Disconnected.
+21-10-11 22:48:29 ** Disconnected.
+21-10-11 22:48:29 ** Disconnected.
+21-10-11 22:48:29 ** Socket Error # 11001<EOL>Host not found.
+21-10-15 15:32:37 ** --- MESSAGE BEGIN ---
+21-10-15 15:32:37 ** To: kannanca02@gmail.com
+21-10-15 15:32:37 ** Subject: Password Reset Code
+21-10-15 15:32:38 ** From: wastemanagementstate@gmail.com
+21-10-15 15:32:38 ** 
+21-10-15 15:32:38 ** Your password reset code is 304621
+21-10-15 15:32:38 ** --- MESSAGE END ---
+21-10-15 15:32:41 ** Connecting to smtp.gmail.com:587
+21-10-15 15:32:42 ** Connected.
+21-10-15 15:32:42 << 220 smtp.gmail.com ESMTP n21sm4554691pfv.115 - gsmtp<EOL>
+21-10-15 15:32:42 >> EHLO DESKTOP-30PHAAL<EOL>
+21-10-15 15:32:42 << 250-smtp.gmail.com at your service, [103.165.21.162]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21-10-15 15:32:42 ** Authenticating as wastemanagementstate@gmail.com
+21-10-15 15:32:42 >> STARTTLS<EOL>
+21-10-15 15:32:42 << 220 2.0.0 Ready to start TLS<EOL>
+21-10-15 15:32:42 >> EHLO DESKTOP-30PHAAL<EOL>
+21-10-15 15:32:43 << 250-smtp.gmail.com at your service, [103.165.21.162]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21-10-15 15:32:43 >> AUTH LOGIN<EOL>
+21-10-15 15:32:43 << 334 VXNlcm5hbWU6<EOL>
+21-10-15 15:32:43 >> d2FzdGVtYW5hZ2VtZW50c3RhdGVAZ21haWwuY29t<EOL>
+21-10-15 15:32:43 << 334 UGFzc3dvcmQ6<EOL>
+21-10-15 15:32:43 >> ODA3NTIzMDU0MQ==<EOL>
+21-10-15 15:32:43 << 235 2.7.0 Accepted<EOL>
+21-10-15 15:32:43 >> MAIL FROM: <wastemanagementstate@gmail.com><EOL>
+21-10-15 15:32:44 << 250 2.1.0 OK n21sm4554691pfv.115 - gsmtp<EOL>
+21-10-15 15:32:44 >> RCPT TO: <kannanca02@gmail.com><EOL>
+21-10-15 15:32:44 << 250 2.1.5 OK n21sm4554691pfv.115 - gsmtp<EOL>
+21-10-15 15:32:44 >> DATA<EOL>
+21-10-15 15:32:44 << 354  Go ahead n21sm4554691pfv.115 - gsmtp<EOL>
+21-10-15 15:32:45 >> Date: Fri, 15 Oct 2021 15:32:44 +0530<EOL>
+21-10-15 15:32:45 >> To: kannanca02@gmail.com<EOL>
+21-10-15 15:32:45 >> Subject: Password Reset Code<EOL>
+21-10-15 15:32:45 >> From: wastemanagementstate@gmail.com<EOL>
+21-10-15 15:32:45 >> <EOL>
+21-10-15 15:32:45 >> Your password reset code is 304621<EOL>
+21-10-15 15:32:45 >> .<EOL>
+21-10-15 15:32:46 << 250 2.0.0 OK  1634292174 n21sm4554691pfv.115 - gsmtp<EOL>
+21-10-15 15:32:46 >> QUIT<EOL>
+21-10-15 15:32:46 << 221 2.0.0 closing connection n21sm4554691pfv.115 - gsmtp<EOL>
+21-10-15 15:32:46 ** Disconnecting from smtp.gmail.com:587
+21-10-15 15:32:46 ** Disconnected.
+21-10-15 15:32:46 ** Disconnected.
+21-10-15 15:40:59 ** --- MESSAGE BEGIN ---
+21-10-15 15:40:59 ** To: kannanca02@gmail.com
+21-10-15 15:40:59 ** Subject: myran book
+21-10-15 15:40:59 ** From: wastemanagementstate@gmail.com
+21-10-15 15:40:59 ** 
+21-10-15 15:40:59 ** Your password reset code is oombii
+21-10-15 15:40:59 ** --- MESSAGE END ---
+21-10-15 15:41:00 ** Connecting to smtp.gmail.com:587
+21-10-15 15:41:01 ** Connected.
+21-10-15 15:41:01 << 220 smtp.gmail.com ESMTP e15sm4466755pfc.134 - gsmtp<EOL>
+21-10-15 15:41:01 >> EHLO DESKTOP-30PHAAL<EOL>
+21-10-15 15:41:01 << 250-smtp.gmail.com at your service, [103.165.21.162]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21-10-15 15:41:01 ** Authenticating as wastemanagementstate@gmail.com
+21-10-15 15:41:01 >> STARTTLS<EOL>
+21-10-15 15:41:01 << 220 2.0.0 Ready to start TLS<EOL>
+21-10-15 15:41:01 >> EHLO DESKTOP-30PHAAL<EOL>
+21-10-15 15:41:02 << 250-smtp.gmail.com at your service, [103.165.21.162]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21-10-15 15:41:02 >> AUTH LOGIN<EOL>
+21-10-15 15:41:02 << 334 VXNlcm5hbWU6<EOL>
+21-10-15 15:41:02 >> d2FzdGVtYW5hZ2VtZW50c3RhdGVAZ21haWwuY29t<EOL>
+21-10-15 15:41:02 << 334 UGFzc3dvcmQ6<EOL>
+21-10-15 15:41:02 >> ODA3NTIzMDU0MQ==<EOL>
+21-10-15 15:41:02 << 235 2.7.0 Accepted<EOL>
+21-10-15 15:41:02 >> MAIL FROM: <wastemanagementstate@gmail.com><EOL>
+21-10-15 15:41:02 << 250 2.1.0 OK e15sm4466755pfc.134 - gsmtp<EOL>
+21-10-15 15:41:02 >> RCPT TO: <kannanca02@gmail.com><EOL>
+21-10-15 15:41:03 << 250 2.1.5 OK e15sm4466755pfc.134 - gsmtp<EOL>
+21-10-15 15:41:03 >> DATA<EOL>
+21-10-15 15:41:03 << 354  Go ahead e15sm4466755pfc.134 - gsmtp<EOL>
+21-10-15 15:41:03 >> Date: Fri, 15 Oct 2021 15:41:03 +0530<EOL>
+21-10-15 15:41:03 >> To: kannanca02@gmail.com<EOL>
+21-10-15 15:41:03 >> Subject: myran book<EOL>
+21-10-15 15:41:03 >> From: wastemanagementstate@gmail.com<EOL>
+21-10-15 15:41:03 >> <EOL>
+21-10-15 15:41:03 >> Your password reset code is oombii<EOL>
+21-10-15 15:41:03 >> .<EOL>
+21-10-15 15:41:04 << 250 2.0.0 OK  1634292672 e15sm4466755pfc.134 - gsmtp<EOL>
+21-10-15 15:41:04 >> QUIT<EOL>
+21-10-15 15:41:04 << 221 2.0.0 closing connection e15sm4466755pfc.134 - gsmtp<EOL>
+21-10-15 15:41:04 ** Disconnecting from smtp.gmail.com:587
+21-10-15 15:41:04 ** Disconnected.
+21-10-15 15:41:04 ** Disconnected.
